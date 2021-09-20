@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="302dp"
         android:layout_height="262dp"
-        android:text="Hola Mundo"
+        android:text="Adiós Mundo"
         android:textSize="96sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
